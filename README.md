@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a full stack developer and researcher at ESDS Software Solution LTD., working on various products using Angular, Golang... \
+💡 &nbsp; I'm a full stack developer and researcher., working on various products using Angular, Golang... \
 💻 &nbsp;I'm working on cloud native technologies.\
 🌱 &nbsp;I'm on track for imporving my programming skill sets and data structures...\
 ✍️ &nbsp;In my free time, I play Video Games (Valorant, Fifa), football and pursue producing EDM as my hobbies.\
