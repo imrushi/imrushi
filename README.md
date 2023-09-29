@@ -1,17 +1,12 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! I am Rushi Panchariya...
 
-![version :25.08.2021](https://img.shields.io/badge/version-25.03.2021-informational) &nbsp;
-![profile count](https://komarev.com/ghpvc/?username=imrushi&color=red)&nbsp;
-[![GitHub Rushi Panchariya](https://img.shields.io/github/followers/imrushi?label=follow&style=social)](https://github.com/imrushi)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
-
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a full stack developer and researcher, working on various products using Angular, Golang... \
+💡 &nbsp;I'm a full stack developer and researcher, working on various products using below tech stack. \
 💻 &nbsp;I'm working on cloud native technologies.\
 🌱 &nbsp;I'm on track for imporving my programming skill sets and data structures...\
 ✍️ &nbsp;In my free time, I play Video Games (Valorant, Fifa), football and pursue producing EDM as my hobbies.\
-📄 &nbsp;You can check my [portfolio](https://imrushi.github.io)\
+📄 &nbsp;You can check my [portfolio](https://ruship.dev)\
 ⚡ &nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.
 <img align="right" alt="GIF" height="150px" width="250px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
